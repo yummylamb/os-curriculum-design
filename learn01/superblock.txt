@@ -1,0 +1,3 @@
+BlockNum: 512
+INodeNum: 128
+MaxFileSize: 128
